@@ -1,0 +1,5 @@
+/home/ivan/Projects/my-first-csharp-fork/CalculadoraOperacionesBasicas/bin/Debug/CalculadoraOperacionesBasicas.exe
+/home/ivan/Projects/my-first-csharp-fork/CalculadoraOperacionesBasicas/bin/Debug/CalculadoraOperacionesBasicas.pdb
+/home/ivan/Projects/my-first-csharp-fork/CalculadoraOperacionesBasicas/obj/x86/Debug/CalculadoraOperacionesBasicas.csproj.CoreCompileInputs.cache
+/home/ivan/Projects/my-first-csharp-fork/CalculadoraOperacionesBasicas/obj/x86/Debug/CalculadoraOperacionesBasicas.exe
+/home/ivan/Projects/my-first-csharp-fork/CalculadoraOperacionesBasicas/obj/x86/Debug/CalculadoraOperacionesBasicas.pdb
