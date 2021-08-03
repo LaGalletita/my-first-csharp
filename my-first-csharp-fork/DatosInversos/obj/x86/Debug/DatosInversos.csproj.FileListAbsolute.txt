@@ -1,0 +1,5 @@
+/home/ivan/Projects/my-first-csharp-fork/DatosInversos/bin/Debug/DatosInversos.exe
+/home/ivan/Projects/my-first-csharp-fork/DatosInversos/bin/Debug/DatosInversos.pdb
+/home/ivan/Projects/my-first-csharp-fork/DatosInversos/obj/x86/Debug/DatosInversos.csproj.CoreCompileInputs.cache
+/home/ivan/Projects/my-first-csharp-fork/DatosInversos/obj/x86/Debug/DatosInversos.exe
+/home/ivan/Projects/my-first-csharp-fork/DatosInversos/obj/x86/Debug/DatosInversos.pdb

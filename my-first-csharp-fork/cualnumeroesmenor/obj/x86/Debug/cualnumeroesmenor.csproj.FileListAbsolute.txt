@@ -1,0 +1,5 @@
+/home/ivan/Projects/my-first-csharp-fork/cualnumeroesmenor/bin/Debug/cualnumeroesmenor.exe
+/home/ivan/Projects/my-first-csharp-fork/cualnumeroesmenor/bin/Debug/cualnumeroesmenor.pdb
+/home/ivan/Projects/my-first-csharp-fork/cualnumeroesmenor/obj/x86/Debug/cualnumeroesmenor.csproj.CoreCompileInputs.cache
+/home/ivan/Projects/my-first-csharp-fork/cualnumeroesmenor/obj/x86/Debug/cualnumeroesmenor.exe
+/home/ivan/Projects/my-first-csharp-fork/cualnumeroesmenor/obj/x86/Debug/cualnumeroesmenor.pdb
